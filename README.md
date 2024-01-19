@@ -32,3 +32,12 @@ This Todo App is a sleek and intuitive task management application that empowers
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/anasklbm/Todo_App.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd Todo_App
+3. **Install dependencies:**
+   ```bash
+   npm install
+4. **Run the app:**
+   ```bash
+   npm start
