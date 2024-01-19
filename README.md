@@ -18,7 +18,7 @@ This Todo App is a sleek and intuitive task management application that empowers
 
 4. **Show Completed Tasks:** The app provides a toggle option, allowing users to dynamically show or hide completed tasks based on their preference.
 
-5. **Drag-and-Drop:** Experience enhanced task management with drag-and-drop functionality, enabling users to intuitively rearrange tasks by seamlessly dragging them to desired positions.
+5. **Drag-and-Drop:** Experience enhanced task management with drag-and-drop functionality, enabling users to intuitively rearrange tasks by seamlessly dragging them to desired positions. 🚀
 
 ## Technologies Used
 
