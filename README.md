@@ -2,33 +2,33 @@
 
 ## Live Demo
 
-A live demo of the Todo App is available at [[https://your-username.github.io/todo-app]](https://anasklbm.github.io/Todo_App/).
+A live demo of the Todo App is available at [https://anasklbm.github.io/Todo_App/](https://anasklbm.github.io/Todo_App/).
 
 ## Overview
 
-This Todo App is a simple task management application that allows users to add, edit, delete, and mark tasks as completed. It provides a user-friendly interface and supports drag-and-drop functionality for easy task rearrangement.
+This Todo App is a sleek and intuitive task management application that empowers users to effortlessly manage their tasks. It offers a range of features, including task addition, editing, deletion, and completion tracking. The user-friendly interface, coupled with drag-and-drop functionality, facilitates seamless task organization.
 
 ## Features
 
-1. **Add and Edit Tasks:** Users can add new tasks with due dates and priorities. Existing tasks can be edited to update their details.
+1. **Add and Edit Tasks:** Users can effortlessly add new tasks, specifying due dates and priorities. Existing tasks can be easily edited to reflect updated details.
 
-2. **Delete Tasks:** Tasks can be deleted individually using the delete icon.
+2. **Delete Tasks:** Tasks can be deleted individually using the intuitive delete icon.
 
-3. **Mark Tasks as Completed:** Users can mark tasks as completed by checking the checkbox next to each task.
+3. **Mark Tasks as Completed:** Users can efficiently mark tasks as completed by simply checking the checkbox next to each task.
 
-4. **Show Completed Tasks:** A toggle option allows users to show or hide completed tasks.
+4. **Show Completed Tasks:** The app provides a toggle option, allowing users to dynamically show or hide completed tasks based on their preference.
 
-5. **Drag-and-Drop:** The app supports drag-and-drop functionality, enabling users to easily rearrange tasks by dragging them to a new position.
+5. **Drag-and-Drop:** Experience enhanced task management with drag-and-drop functionality, enabling users to intuitively rearrange tasks by seamlessly dragging them to desired positions.
 
 ## Technologies Used
 
-- React: A JavaScript library for building user interfaces.
-- React Bootstrap: Bootstrap components built with React.
-- React Icons: A library of popular icons for React.
-- React DnD: A set of React utilities for building drag-and-drop interfaces.
+- **React:** A powerful JavaScript library for building dynamic user interfaces.
+- **React Bootstrap:** Utilizes Bootstrap components seamlessly integrated with React.
+- **React Icons:** A comprehensive library of popular icons, enhancing the visual appeal of the application.
+- **React DnD:** Leverages React utilities to implement smooth drag-and-drop interfaces, ensuring a delightful user experience.
 
 ## How to Run Locally
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/anasklbm/Todo_App.git
