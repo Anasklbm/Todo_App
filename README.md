@@ -20,12 +20,18 @@ This Todo App is a sleek and intuitive task management application that empowers
 
 5. **Drag-and-Drop:** Experience enhanced task management with drag-and-drop functionality, enabling users to intuitively rearrange tasks by seamlessly dragging them to desired positions. 🚀
 
+6. **Persistence:** Ensure that the tasks persist even when the user refreshes the page. 🔄
+
+7. **Due Dates or Priority Levels:** Add due dates or priority levels to tasks. ⏰⚙️
+
+8. **Filtering Options:** Provide filtering options (e.g., show only completed tasks). 🔍
+
 ## Technologies Used
 
-- **React:** A powerful JavaScript library for building dynamic user interfaces.
-- **React Bootstrap:** Utilizes Bootstrap components seamlessly integrated with React.
+- **React:** A powerful JavaScript library for building dynamic user interfaces. ⚛️
+- **React Bootstrap:** Utilizes Bootstrap components seamlessly integrated with React. 🌐
 - **React Icons:** A comprehensive library of popular icons, enhancing the visual appeal of the application. 🎨
-- **React DnD:** Leverages React utilities to implement smooth drag-and-drop interfaces, ensuring a delightful user experience.
+- **React DnD:** Leverages React utilities to implement smooth drag-and-drop interfaces, ensuring a delightful user experience. 🕹️
 
 ## How to Run Locally
 
