@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: #131111;
+    font-family: sans-serif;
+}
+
+.todo-container {
+    width: 400px;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%, 0);
+    text-align: center;
+}
+
+.input-section {
+    box-shadow: 2px 7px 8px 5px #8a8888;
+    border-radius: 10px;
+    box-shadow: #121111;
+    margin-bottom: 15px;
+    padding: 15px; /* Add padding to create a gap between form and container */
+    outline: none;
+}
+
+.input-section input {
+    border-radius: 5px;
+    border: 1px solid rgb(255 246 231);
+    width: calc(100% - 20px); /* Adjust width and include padding in the calculation */
+    margin-bottom: 10px; /* Add margin to create space between input and button */
+    padding: 10px;
+    box-sizing: border-box;
+    color: #0f0f0f4a;
+    box-shadow: 0px 2px 2px 1px #663131;
+    outline: none;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 15px;
+    color: #d5d5d5f5;
+}
+
+ul {
+    padding: 0;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+ul li {
+    list-style: none;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 7px 8px #663131;
+    color: gray;
+    box-shadow: 0px 7px 8px #663131;
+    display: flex;
+}
+
+input::placeholder {
+    color: #0f0f0f4a;
+}
+
+i {
+    text-align: right;
+    flex: 1;
+}
+
+
